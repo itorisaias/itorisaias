@@ -1,7 +1,7 @@
 ### Hey, I'm Itor! 👋
 
 - 🔭 I’m currently working on Insigna
-- 🌱 I’m currently learning Elixir, Nextjs, DDD
+- 🌱 I’m currently learning Elixir, Phoenix, LiveView, DDD and Nextjs 
 - 💬 Ask me about Nodejs, VueJS, Typescript
 - 📫 How to reach me:
   - [![Blog Badge](https://img.shields.io/badge/Blog-itorisaias.com.br-4fc08d?style=flat-square)](https://itorisaias.com.br/)
