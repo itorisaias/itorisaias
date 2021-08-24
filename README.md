@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Itor Isaias
+### Hey, I'm Itor! 👋
 
 - 🔭 I’m currently working on Insigna
 - 🌱 I’m currently learning Elixir, Nextjs, DDD
