@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Insigna
 - 🌱 I’m currently learning Elixir, Phoenix, LiveView, K8s, DDD and Nextjs 
-- 💬 Ask me about Nodejs, VueJS, Typescript
+- 💬 Ask me about Nodejs, Typescript, Nestjs, VueJS, React
 - 📫 How to reach me:
   - [![Blog Badge](https://img.shields.io/badge/Blog-itorisaias.com.br-4fc08d?style=flat-square)](https://itorisaias.com.br/)
   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/itorisaias/)
