@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itorisaias&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="itorisaias" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itorisaias" alt="itorisaias" />
 </p>
 
 <!--
