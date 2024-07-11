@@ -1,8 +1,8 @@
 ### Hey, I'm Itor! 👋
 
-- 🔭 I’m currently working on 5by5
+- 🔭 I’m currently working on CustomerGauge
 - 🌱 I’m currently learning K8s, Elixir, Phoenix, LiveView, DDD and Nextjs 
-- 💬 Ask me about Nodejs, Typescript, Nestjs, VueJS, React
+- 💬 Ask me about Nodejs, Typescript, PHP, Laravel, Nestjs, VueJS, React
 - 📫 How to reach me:
   - [![Blog Badge](https://img.shields.io/badge/Blog-itorisaias.com.br-4fc08d?style=flat-square)](https://itorisaias.com.br/)
   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/itorisaias/)
